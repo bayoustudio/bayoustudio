@@ -7,8 +7,6 @@ your Steam profile's artwork showcase.
 The preview is your real Steam profile page, with your background and the artwork swapped in, so you see exactly what
 visitors will see before you upload anything.
 
-It runs on your own computer only. See [Private by design](#private-by-design).
-
 ## What you can do
 
 - **Pose any hunter.** Every hunter skin in the game (367), holding any primary and with any secondary holstered where
